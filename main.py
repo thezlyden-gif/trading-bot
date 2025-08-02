@@ -2,7 +2,7 @@ import requests
 import time
 
 bot_token = "8392693204:AAEDJvZhNvukxx4nnYDRZYrFyUo8PkQqIr8"
-chat_id = "AZMAT_CHAT_ID"  # Замени на свой числовой chat_id
+chat_id = "7647937915"  # Замени на свой числовой chat_id
 
 def send_message(text):
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
